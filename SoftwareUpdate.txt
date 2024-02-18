@@ -1,1 +1,1 @@
-Move Explorer tests to scheduled CI (#8305)
+docs: update view-results-in-terminal.md (#66)
